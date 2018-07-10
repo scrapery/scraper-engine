@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Lisa uus Config Site",
+                "createOrEditLabel": "Lisa või muuda Config Site",
+                "search": "Otsi Config Site"
+            },
+            "delete": {
+                "question": "Kas olete kindel, et soovite kustutada Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Uus Config Site on loodud identifikaatoriga {{ param }}",
+            "updated": "Config Site identifikaatoriga {{ param }} on muudetud",
+            "deleted": "Config Site identifikaatoriga {{ param }} on kustutatud"
+        }
+    }
+}

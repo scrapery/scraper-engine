@@ -1,0 +1,12 @@
+{
+    "scraperGatewayApp": {
+        "Action" : {
+            "null": "",
+            "CLICK": "CLICK",
+            "SCROLL": "SCROLL",
+            "LOGIN": "LOGIN",
+            "GET": "GET",
+            "POST": "POST"
+        }
+    }
+}

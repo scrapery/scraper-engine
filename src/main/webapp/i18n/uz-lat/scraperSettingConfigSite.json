@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Yangi Config Site qo`shish",
+                "createOrEditLabel": "Config Siteni tahrirlash",
+                "search": "Config Siteni izlash"
+            },
+            "delete": {
+                "question": "{{ id }}- Config Siteni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Config Site {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Config Site saqlandi",
+            "deleted": "{{ param }}- Config Site o`chirildi"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Creeare o nouă entitate Link",
+                "createOrEditLabel": "Creeare sau editare Link",
+                "search": "Căutare după Link"
+            },
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "A fost creată o nouă entitate Link cu identificatorul {{ param }}",
+            "updated": "Entitatea Link cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entitatea Link cu identificatorul {{ param }} a fost ștearsă"
+        }
+    }
+}

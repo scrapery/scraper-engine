@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Skapa en ny Link",
+                "createOrEditLabel": "Skapa eller ändra en Link",
+                "search": "Sök efter Link"
+            },
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "En ny Link är skapad med id {{ param }}",
+            "updated": "En Link är uppdaterad med id  {{ param }}",
+            "deleted": "En Link är borttagen med id  {{ param }}"
+        }
+    }
+}

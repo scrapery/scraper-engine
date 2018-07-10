@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Dodaj Link",
+                "createOrEditLabel": "Dodaj lub edytuj: Link",
+                "search": "Szukaj Link"
+            },
+            "delete": {
+                "question": "Czy na pewno chcesz usunąć Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Utworzono nowy Link z identyfikatorem {{ param }}",
+            "updated": "Uaktualniono Link z identyfikatorem {{ param }}",
+            "deleted": "Usunięto Link z identyfikatorem {{ param }}"
+        }
+    }
+}

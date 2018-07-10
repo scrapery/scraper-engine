@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Buat Config Site baru",
+                "createOrEditLabel": "Buat atau edit Config Site",
+                "search": "Cari Config Site"
+            },
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Config Site dengan id {{ param }} telah dibuat",
+            "updated": "Config Site dengan id {{ param }} telah diperbaharui",
+            "deleted": "Config Site dengan id {{ param }} telah dihapus"
+        }
+    }
+}

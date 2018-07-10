@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingFetchSiteAction" : {
+            "home": {
+                "title": "Fetch Site Actions",
+                "createLabel": "Fetch Site Action erstellen",
+                "createOrEditLabel": "Fetch Site Action erstellen oder bearbeiten",
+                "search": "Suche nach Fetch Site Action"
+            },
+            "delete": {
+                "question": "Soll Fetch Site Action {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Fetch Site Action"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "activeLevel": "Active Level",
+            "selectorAction": "Selector Action",
+            "selectorActionAttr": "Selector Action Attr",
+            "action": "Action",
+            "totalActions": "Total Actions",
+            "seleniumActionGetContent": "Selenium Action Get Content",
+            "selectorNextPageUrlsName": "Selector Next Page Urls Name",
+            "selectorNextPageUrlsNameAttr": "Selector Next Page Urls Name Attr"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingFetchSiteAction" : {
+            "created": "Fetch Site Action erstellt mit ID {{ param }}",
+            "updated": "Fetch Site Action aktualisiert mit ID {{ param }}",
+            "deleted": "Fetch Site Action gelöscht mit ID {{ param }}"
+        }
+    }
+}

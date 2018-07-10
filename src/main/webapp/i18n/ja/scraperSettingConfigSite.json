@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "ConfigSites",
+                "createLabel": "Config Site を追加",
+                "createOrEditLabel": "Config Siteを追加または編集",
+                "search": "Search for Config Site"
+            },
+            "delete": {
+                "question": "Config Site {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "A new Config Site is created with identifier {{ param }}",
+            "updated": "A Config Site is updated with identifier {{ param }}",
+            "deleted": "A Config Site is deleted with identifier {{ param }}"
+        }
+    }
+}

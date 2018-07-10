@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Config Site erstellen",
+                "createOrEditLabel": "Config Site erstellen oder bearbeiten",
+                "search": "Suche nach Config Site"
+            },
+            "delete": {
+                "question": "Soll Config Site {{ id }} wirklich dauerhaft gelöscht werden?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Config Site erstellt mit ID {{ param }}",
+            "updated": "Config Site aktualisiert mit ID {{ param }}",
+            "deleted": "Config Site gelöscht mit ID {{ param }}"
+        }
+    }
+}

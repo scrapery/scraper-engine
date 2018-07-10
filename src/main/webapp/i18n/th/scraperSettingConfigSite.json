@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "สร้าง Config Site",
+                "createOrEditLabel": "สร้างหรือแก้ไข Config Site",
+                "search": "ค้นหา Config Site"
+            },
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Config Site ถูกสร้างด้วย {{ param }}",
+            "updated": "Config Site ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Config Site ถูกลบด้วย {{ param }}"
+        }
+    }
+}

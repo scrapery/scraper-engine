@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Thêm mới một Link",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Link",
+                "search": "Tìm Link"
+            },
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Một Link mới được tạo với định danh {{ param }}",
+            "updated": "Một Link cập nhật với định danh {{ param }}",
+            "deleted": "Một Link đã xóa với định danh {{ param }}"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "สร้าง Link",
+                "createOrEditLabel": "สร้างหรือแก้ไข Link",
+                "search": "ค้นหา Link"
+            },
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Link ถูกสร้างด้วย {{ param }}",
+            "updated": "Link ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Link ถูกลบด้วย {{ param }}"
+        }
+    }
+}

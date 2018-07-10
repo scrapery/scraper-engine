@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "สร้าง Config Site Login",
+                "createOrEditLabel": "สร้างหรือแก้ไข Config Site Login",
+                "search": "ค้นหา Config Site Login"
+            },
+            "delete": {
+                "question": "คุณต้องการที่จะลบ Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Config Site Login ถูกสร้างด้วย {{ param }}",
+            "updated": "Config Site Login ถูกแก้ไขด้วย {{ param }}",
+            "deleted": "Config Site Login ถูกลบด้วย {{ param }}"
+        }
+    }
+}

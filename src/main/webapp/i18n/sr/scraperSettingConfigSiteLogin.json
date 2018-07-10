@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Kreiraj novi Config Site Login",
+                "createOrEditLabel": "Kreirajte ili izmenite Config Site Login",
+                "search": "Potražite Config Site Login"
+            },
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Config Site Login pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Kreiran je novi Config Site Login pod nazivom  {{ param }}",
+            "updated": "Config Site Login pod nazivom {{ param }} je ažuriran",
+            "deleted": "Config Site Login pod nazivom {{ param }} je obrisan"
+        }
+    }
+}

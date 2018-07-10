@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Yangi Config Site Login qo`shish",
+                "createOrEditLabel": "Config Site Loginni tahrirlash",
+                "search": "Config Site Loginni izlash"
+            },
+            "delete": {
+                "question": "{{ id }}- Config Site Loginni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Config Site Login {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Config Site Login saqlandi",
+            "deleted": "{{ param }}- Config Site Login o`chirildi"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Yangi Link qo`shish",
+                "createOrEditLabel": "Linkni tahrirlash",
+                "search": "Linkni izlash"
+            },
+            "delete": {
+                "question": "{{ id }}- Linkni o`chirmoqchimisiz? "
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Link {{ param }} bilan qo`shildi",
+            "updated": "{{ param }}- Link saqlandi",
+            "deleted": "{{ param }}- Link o`chirildi"
+        }
+    }
+}

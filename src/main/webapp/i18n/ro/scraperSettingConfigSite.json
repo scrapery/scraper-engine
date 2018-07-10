@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Creeare o nouă entitate Config Site",
+                "createOrEditLabel": "Creeare sau editare Config Site",
+                "search": "Căutare după Config Site"
+            },
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "A fost creată o nouă entitate Config Site cu identificatorul {{ param }}",
+            "updated": "Entitatea Config Site cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entitatea Config Site cu identificatorul {{ param }} a fost ștearsă"
+        }
+    }
+}

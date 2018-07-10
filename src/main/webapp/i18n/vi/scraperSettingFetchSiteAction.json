@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingFetchSiteAction" : {
+            "home": {
+                "title": "Fetch Site Actions",
+                "createLabel": "Thêm mới một Fetch Site Action",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Fetch Site Action",
+                "search": "Tìm Fetch Site Action"
+            },
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Fetch Site Action {{ id }}?"
+            },
+            "detail": {
+                "title": "Fetch Site Action"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "activeLevel": "Active Level",
+            "selectorAction": "Selector Action",
+            "selectorActionAttr": "Selector Action Attr",
+            "action": "Action",
+            "totalActions": "Total Actions",
+            "seleniumActionGetContent": "Selenium Action Get Content",
+            "selectorNextPageUrlsName": "Selector Next Page Urls Name",
+            "selectorNextPageUrlsNameAttr": "Selector Next Page Urls Name Attr"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingFetchSiteAction" : {
+            "created": "Một Fetch Site Action mới được tạo với định danh {{ param }}",
+            "updated": "Một Fetch Site Action cập nhật với định danh {{ param }}",
+            "deleted": "Một Fetch Site Action đã xóa với định danh {{ param }}"
+        }
+    }
+}

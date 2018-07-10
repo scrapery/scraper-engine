@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Создать новый Config Site Login",
+                "createOrEditLabel": "Создать или отредактировать Config Site Login",
+                "search": "Найти Config Site Login"
+            },
+            "delete": {
+                "question": "Вы уверены что хотите удалить Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Новый Config Site Login создан с идентификатором {{ param }}",
+            "updated": "Config Site Login обновлен с идентификатором {{ param }}",
+            "deleted": "Config Site Login удален с идентификатором {{ param }}"
+        }
+    }
+}

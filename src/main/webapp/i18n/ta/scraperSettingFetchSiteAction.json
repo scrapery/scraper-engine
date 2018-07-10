@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingFetchSiteAction" : {
+            "home": {
+                "title": "Fetch Site Actions",
+                "createLabel": "Fetch Site Action-ஐ உருவாக்கு",
+                "createOrEditLabel": "Fetch Site Action -ஐ மாற்று (அ) உருவாக்கு",
+                "search": "Search for Fetch Site Action"
+            },
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Fetch Site Action {{ id }}?"
+            },
+            "detail": {
+                "title": "Fetch Site Action"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "activeLevel": "Active Level",
+            "selectorAction": "Selector Action",
+            "selectorActionAttr": "Selector Action Attr",
+            "action": "Action",
+            "totalActions": "Total Actions",
+            "seleniumActionGetContent": "Selenium Action Get Content",
+            "selectorNextPageUrlsName": "Selector Next Page Urls Name",
+            "selectorNextPageUrlsNameAttr": "Selector Next Page Urls Name Attr"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingFetchSiteAction" : {
+            "created": "Fetch Site Action புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Fetch Site Action மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Fetch Site Action நீக்கப்பட்டது, அடையாளம {{ param }}"
+        }
+    }
+}

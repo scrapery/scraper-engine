@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Ստեղծել նոր Config Site Login",
+                "createOrEditLabel": "Ստեղծել կամ փոփոխել Config Site Login",
+                "search": "Գտնել Config Site Login"
+            },
+            "delete": {
+                "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Նոր Config Site Login ստեղծված է {{ param }} նունացուցիչով",
+            "updated": "Config Site Login թարմացվաց է {{ param }} նունացուցիչով",
+            "deleted": "Config Site Login հեռացված է {{ param }} նունացուցիչով"
+        }
+    }
+}

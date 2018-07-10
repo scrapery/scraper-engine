@@ -1,0 +1,12 @@
+{
+    "scraperGatewayApp": {
+        "ConfigDataType" : {
+            "null": "",
+            "INTEGER": "INTEGER",
+            "STRING": "STRING",
+            "DOUBLE": "DOUBLE",
+            "FLOAT": "FLOAT",
+            "DATE": "DATE"
+        }
+    }
+}

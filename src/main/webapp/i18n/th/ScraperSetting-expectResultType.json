@@ -1,0 +1,9 @@
+{
+    "scraperGatewayApp": {
+        "ExpectResultType" : {
+            "null": "",
+            "OBJECT": "OBJECT",
+            "ARRAY": "ARRAY"
+        }
+    }
+}

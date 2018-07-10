@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "नवीन Link तयार करा",
+                "createOrEditLabel": "Link तयार किंवा संपादित करा",
+                "search": "Link शोधा"
+            },
+            "delete": {
+                "question": "Link [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Link [identifier: {{ param }}] तयार आहे",
+            "updated": "Link [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Link [identifier: {{ param }}] हटविले आहे"
+        }
+    }
+}

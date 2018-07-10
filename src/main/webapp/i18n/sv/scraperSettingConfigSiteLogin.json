@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Skapa en ny Config Site Login",
+                "createOrEditLabel": "Skapa eller ändra en Config Site Login",
+                "search": "Sök efter Config Site Login"
+            },
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "En ny Config Site Login är skapad med id {{ param }}",
+            "updated": "En Config Site Login är uppdaterad med id  {{ param }}",
+            "deleted": "En Config Site Login är borttagen med id  {{ param }}"
+        }
+    }
+}

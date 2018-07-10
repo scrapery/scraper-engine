@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Buat Config Site Login baru",
+                "createOrEditLabel": "Buat atau edit Config Site Login",
+                "search": "Cari Config Site Login"
+            },
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Config Site Login dengan id {{ param }} telah dibuat",
+            "updated": "Config Site Login dengan id {{ param }} telah diperbaharui",
+            "deleted": "Config Site Login dengan id {{ param }} telah dihapus"
+        }
+    }
+}

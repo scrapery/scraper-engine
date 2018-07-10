@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Vytvořit Config Site",
+                "createOrEditLabel": "Vytvořit nebo upravit Config Site",
+                "search": "Vyhledat Config Site"
+            },
+            "delete": {
+                "question": "Jste si jisti, že chcete smazat Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Byl vytvořen potomek entity Config Site s identifikátorem {{ param }}",
+            "updated": "Potomek entity Config Site s identifikátorem {{ param }} byl upravený.",
+            "deleted": "Potomek entity Config Site s identifikátorem {{ param }} bol smazaný."
+        }
+    }
+}

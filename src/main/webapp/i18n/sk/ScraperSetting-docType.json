@@ -1,0 +1,10 @@
+{
+    "scraperGatewayApp": {
+        "DocType" : {
+            "null": "",
+            "HTML": "HTML",
+            "XML": "XML",
+            "JSON": "JSON"
+        }
+    }
+}

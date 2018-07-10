@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Skapa en ny Config Site",
+                "createOrEditLabel": "Skapa eller ändra en Config Site",
+                "search": "Sök efter Config Site"
+            },
+            "delete": {
+                "question": "Är du säker på att du vill ta bort Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "En ny Config Site är skapad med id {{ param }}",
+            "updated": "En Config Site är uppdaterad med id  {{ param }}",
+            "deleted": "En Config Site är borttagen med id  {{ param }}"
+        }
+    }
+}

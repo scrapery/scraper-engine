@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingFetchSiteAction" : {
+            "home": {
+                "title": "Fetch Site Actions",
+                "createLabel": "Створити новий Fetch Site Action",
+                "createOrEditLabel": "Створити чи редагувати Fetch Site Action",
+                "search": "Знайти Fetch Site Action"
+            },
+            "delete": {
+                "question": "Ви впевнені, що хочете видалити Fetch Site Action {{ id }}?"
+            },
+            "detail": {
+                "title": "Fetch Site Action"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "activeLevel": "Active Level",
+            "selectorAction": "Selector Action",
+            "selectorActionAttr": "Selector Action Attr",
+            "action": "Action",
+            "totalActions": "Total Actions",
+            "seleniumActionGetContent": "Selenium Action Get Content",
+            "selectorNextPageUrlsName": "Selector Next Page Urls Name",
+            "selectorNextPageUrlsNameAttr": "Selector Next Page Urls Name Attr"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingFetchSiteAction" : {
+            "created": "Новий Fetch Site Action створений з ідентифікатором {{ param }}",
+            "updated": "Fetch Site Action оновлений з ідентифікатором {{ param }}",
+            "deleted": "Fetch Site Action видалений з ідентифікатором {{ param }}"
+        }
+    }
+}

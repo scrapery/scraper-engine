@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Config Site Login-ஐ உருவாக்கு",
+                "createOrEditLabel": "Config Site Login -ஐ மாற்று (அ) உருவாக்கு",
+                "search": "Search for Config Site Login"
+            },
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Config Site Login புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Config Site Login மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Config Site Login நீக்கப்பட்டது, அடையாளம {{ param }}"
+        }
+    }
+}

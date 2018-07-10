@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "建立一筆新的 Config Site",
+                "createOrEditLabel": "建立或編輯 Config Site",
+                "search": "搜尋 Config Site"
+            },
+            "delete": {
+                "question": "您確定要刪除 Config Site {{ id }} 嗎?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "新的 Config Site 建立成功，識別碼為 {{ param }}",
+            "updated": "識別碼為 {{ param }} 的 Config Site 更新成功",
+            "deleted": "識別碼為 {{ param }} 的 Config Site 刪除成功"
+        }
+    }
+}

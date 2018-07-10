@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingFetchSiteAction" : {
+            "home": {
+                "title": "Fetch Site Actions",
+                "createLabel": "Buat Fetch Site Action baru",
+                "createOrEditLabel": "Buat atau edit Fetch Site Action",
+                "search": "Cari Fetch Site Action"
+            },
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Fetch Site Action {{ id }}?"
+            },
+            "detail": {
+                "title": "Fetch Site Action"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "activeLevel": "Active Level",
+            "selectorAction": "Selector Action",
+            "selectorActionAttr": "Selector Action Attr",
+            "action": "Action",
+            "totalActions": "Total Actions",
+            "seleniumActionGetContent": "Selenium Action Get Content",
+            "selectorNextPageUrlsName": "Selector Next Page Urls Name",
+            "selectorNextPageUrlsNameAttr": "Selector Next Page Urls Name Attr"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingFetchSiteAction" : {
+            "created": "Fetch Site Action dengan id {{ param }} telah dibuat",
+            "updated": "Fetch Site Action dengan id {{ param }} telah diperbaharui",
+            "deleted": "Fetch Site Action dengan id {{ param }} telah dihapus"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Buat Link baru",
+                "createOrEditLabel": "Buat atau edit Link",
+                "search": "Cari Link"
+            },
+            "delete": {
+                "question": "Apakah anda yakin ingin menghapus Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Link dengan id {{ param }} telah dibuat",
+            "updated": "Link dengan id {{ param }} telah diperbaharui",
+            "deleted": "Link dengan id {{ param }} telah dihapus"
+        }
+    }
+}

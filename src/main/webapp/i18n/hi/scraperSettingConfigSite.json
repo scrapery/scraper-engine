@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "ConfigSites",
+                "createLabel": "नया Config Site बनाएँ",
+                "createOrEditLabel": "Config Site बनाएँ या संपादित करें",
+                "search": "Config Site खोजें"
+            },
+            "delete": {
+                "question": "Config Site [id: {{ id }}] हटाने की पुष्टि करें"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "एक नया Config Site [identifier: {{ param }}] तैयार है",
+            "updated": "एक Config Site [identifier: {{ param }}] का अद्यतन हुआ है",
+            "deleted": "Config Site [identifier: {{ param }}] हटा दिया है"
+        }
+    }
+}

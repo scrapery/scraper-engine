@@ -1,0 +1,9 @@
+{
+    "scraperGatewayApp": {
+        "TargetChannel" : {
+            "null": "",
+            "PUBLISHER": "PUBLISHER",
+            "CATEGORY": "CATEGORY"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Config Site-ஐ உருவாக்கு",
+                "createOrEditLabel": "Config Site -ஐ மாற்று (அ) உருவாக்கு",
+                "search": "Search for Config Site"
+            },
+            "delete": {
+                "question": "நீக்குவதற்கு உறுதி செய் Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Config Site புதிதாக உருவாக்கப்பட்டது, அடையாளம் {{ param }}",
+            "updated": "Config Site மாற்றப்பட்டது, அடையாளம்  {{ param }}",
+            "deleted": "A Config Site நீக்கப்பட்டது, அடையாளம {{ param }}"
+        }
+    }
+}

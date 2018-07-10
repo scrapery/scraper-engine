@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingFetchSiteAction" : {
+            "home": {
+                "title": "Fetch Site Actions",
+                "createLabel": "Create a new Fetch Site Action",
+                "createOrEditLabel": "Create or edit a Fetch Site Action",
+                "search": "Search for Fetch Site Action"
+            },
+            "delete": {
+                "question": "Are you sure you want to delete Fetch Site Action {{ id }}?"
+            },
+            "detail": {
+                "title": "Fetch Site Action"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "activeLevel": "Active Level",
+            "selectorAction": "Selector Action",
+            "selectorActionAttr": "Selector Action Attr",
+            "action": "Action",
+            "totalActions": "Total Actions",
+            "seleniumActionGetContent": "Selenium Action Get Content",
+            "selectorNextPageUrlsName": "Selector Next Page Urls Name",
+            "selectorNextPageUrlsNameAttr": "Selector Next Page Urls Name Attr"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingFetchSiteAction" : {
+            "created": "A new Fetch Site Action is created with identifier {{ param }}",
+            "updated": "A Fetch Site Action is updated with identifier {{ param }}",
+            "deleted": "A Fetch Site Action is deleted with identifier {{ param }}"
+        }
+    }
+}

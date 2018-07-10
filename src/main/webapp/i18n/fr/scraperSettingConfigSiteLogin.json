@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "ConfigSiteLogins",
+                "createLabel": "Créer un nouveau Config Site Login",
+                "createOrEditLabel": "Créer ou éditer un Config Site Login",
+                "search": "Recherche pour Config Site Login"
+            },
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Config Site Login {{ id }} ?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Un nouveau Config Site Login a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Config Site Login avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Config Site Login avec l'identifiant {{ param }} a été supprimé"
+        }
+    }
+}

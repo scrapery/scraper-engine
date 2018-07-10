@@ -1,0 +1,9 @@
+{
+    "scraperGatewayApp": {
+        "SeleniumActionGetContent" : {
+            "null": "",
+            "DONE_ACTION": "DONE_ACTION",
+            "EACH_ACTION": "EACH_ACTION"
+        }
+    }
+}

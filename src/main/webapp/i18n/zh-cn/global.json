@@ -7,6 +7,16 @@
             "simlife-needle-menu-add-element": "Simlife will add additional menu entries here (do not translate!)",
             "entities": {
                 "main": "数据",
+                "scraperSettingChannel": "Channel",
+                "scraperSettingConfigGroup": "Config Group",
+                "scraperSettingConfigMapping": "Config Mapping",
+                "scraperSettingChannelOuterLink": "Channel Outer Link",
+                "scraperSettingConfigSite": "Config Site",
+                "scraperSettingConfigSiteLogin": "Config Site Login",
+                "scraperSettingFetchSiteAction": "Fetch Site Action",
+                "scraperSettingLink": "Link",
+                "scraperSettingSiteChannel": "Site Channel",
+                "scraperSettingTryParser": "Try Parser",
                 "simlife-needle-menu-add-entry": "Simlife will add additional entities here (do not translate!)"
             },
             "account": {

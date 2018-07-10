@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Egy új Link létrehozása",
+                "createOrEditLabel": "Hozzon létre, vagy módosítson Linkt",
+                "search": "Link keresése"
+            },
+            "delete": {
+                "question": "Biztos benne, hogy törölni szeretné az Linkt {{ id }} azonosítóval?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Egy új Link lett létrehozva {{ param }} azonosítóval",
+            "updated": "A Link módosítva lett {{ param }} azonosítóval",
+            "deleted": "A Link törölve lett {{ param }} azonosítóval"
+        }
+    }
+}

@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "Pridať Link",
+                "createOrEditLabel": "Pridať alebo upraviť Link",
+                "search": "Vyhľadať Link"
+            },
+            "delete": {
+                "question": "Ste si istý, že chcete vymazať Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "Bol vytvorený potomok entity Link s identifikátorom {{ param }}",
+            "updated": "Potomok entity Link s identifikátorom {{ param }} bol upravený.",
+            "deleted": "Potomok entity Link s identifikátorom {{ param }} bol vymazaný."
+        }
+    }
+}

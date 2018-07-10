@@ -1,0 +1,37 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingLink" : {
+            "home": {
+                "title": "Links",
+                "createLabel": "建立一筆新的 Link",
+                "createOrEditLabel": "建立或編輯 Link",
+                "search": "搜尋 Link"
+            },
+            "delete": {
+                "question": "您確定要刪除 Link {{ id }} 嗎?"
+            },
+            "detail": {
+                "title": "Link"
+            },
+            "url": "Url",
+            "scrapeDataId": "Scrape Data Id",
+            "scrapeId": "Scrape Id",
+            "currentLevel": "Current Level",
+            "scrapeUrl": "Scrape Url",
+            "parentUrl": "Parent Url",
+            "scrapeResultId": "Scrape Result Id",
+            "scrapeResultPath": "Scrape Result Path",
+            "scrapeREsultContentType": "Scrape R Esult Content Type",
+            "crawlStatus": "Crawl Status",
+            "internalUrl": "Internal Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingLink" : {
+            "created": "新的 Link 建立成功，識別碼為 {{ param }}",
+            "updated": "識別碼為 {{ param }} 的 Link 更新成功",
+            "deleted": "識別碼為 {{ param }} 的 Link 刪除成功"
+        }
+    }
+}

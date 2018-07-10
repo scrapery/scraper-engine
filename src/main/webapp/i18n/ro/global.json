@@ -10,6 +10,16 @@
                 "bankAccount": "ContBancar",
                 "label": "Etichetă",
                 "operation": "Operație",
+                "scraperSettingChannel": "Channel",
+                "scraperSettingConfigGroup": "Config Group",
+                "scraperSettingConfigMapping": "Config Mapping",
+                "scraperSettingChannelOuterLink": "Channel Outer Link",
+                "scraperSettingConfigSite": "Config Site",
+                "scraperSettingConfigSiteLogin": "Config Site Login",
+                "scraperSettingFetchSiteAction": "Fetch Site Action",
+                "scraperSettingLink": "Link",
+                "scraperSettingSiteChannel": "Site Channel",
+                "scraperSettingTryParser": "Try Parser",
                 "simlife-needle-menu-add-entry": "Simlife will add additional entities here (do not translate!)"
             },
             "account": {

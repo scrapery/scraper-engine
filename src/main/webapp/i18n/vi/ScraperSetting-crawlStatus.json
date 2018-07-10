@@ -1,0 +1,9 @@
+{
+    "scraperGatewayApp": {
+        "CrawlStatus" : {
+            "null": "",
+            "SUCCESS": "SUCCESS",
+            "FALSE": "FALSE"
+        }
+    }
+}

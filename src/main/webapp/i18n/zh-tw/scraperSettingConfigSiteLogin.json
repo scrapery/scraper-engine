@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "建立一筆新的 Config Site Login",
+                "createOrEditLabel": "建立或編輯 Config Site Login",
+                "search": "搜尋 Config Site Login"
+            },
+            "delete": {
+                "question": "您確定要刪除 Config Site Login {{ id }} 嗎?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "新的 Config Site Login 建立成功，識別碼為 {{ param }}",
+            "updated": "識別碼為 {{ param }} 的 Config Site Login 更新成功",
+            "deleted": "識別碼為 {{ param }} 的 Config Site Login 刪除成功"
+        }
+    }
+}

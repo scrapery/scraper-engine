@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "नवीन Config Site Login तयार करा",
+                "createOrEditLabel": "Config Site Login तयार किंवा संपादित करा",
+                "search": "Config Site Login शोधा"
+            },
+            "delete": {
+                "question": "Config Site Login [id: {{ id }}] काढून टाकण्याबाबत पुष्टी?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "Config Site Login [identifier: {{ param }}] तयार आहे",
+            "updated": "Config Site Login [identifier: {{ param }}] सुधारित केले आहे",
+            "deleted": "Config Site Login [identifier: {{ param }}] हटविले आहे"
+        }
+    }
+}

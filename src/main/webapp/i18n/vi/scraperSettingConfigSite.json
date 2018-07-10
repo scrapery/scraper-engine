@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Thêm mới một Config Site",
+                "createOrEditLabel": "Thêm mới hoặc cập nhật Config Site",
+                "search": "Tìm Config Site"
+            },
+            "delete": {
+                "question": "Bạn có chắc là muốn xóa Config Site {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Một Config Site mới được tạo với định danh {{ param }}",
+            "updated": "Một Config Site cập nhật với định danh {{ param }}",
+            "deleted": "Một Config Site đã xóa với định danh {{ param }}"
+        }
+    }
+}

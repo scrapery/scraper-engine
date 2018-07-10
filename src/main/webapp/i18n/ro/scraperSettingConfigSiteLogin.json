@@ -1,0 +1,36 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "home": {
+                "title": "Config Site Logins",
+                "createLabel": "Creeare o nouă entitate Config Site Login",
+                "createOrEditLabel": "Creeare sau editare Config Site Login",
+                "search": "Căutare după Config Site Login"
+            },
+            "delete": {
+                "question": "Sunteți sigur că doriți să ștergeți Config Site Login {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site Login"
+            },
+            "url": "Url",
+            "domain": "Domain",
+            "host": "Host",
+            "selectorAction": "Selector Action",
+            "selectorUsername": "Selector Username",
+            "selectorPassword": "Selector Password",
+            "selectorButtonLogin": "Selector Button Login",
+            "username": "Username",
+            "password": "Password",
+            "redirectUrl": "Redirect Url"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSiteLogin" : {
+            "created": "A fost creată o nouă entitate Config Site Login cu identificatorul {{ param }}",
+            "updated": "Entitatea Config Site Login cu identificatorul {{ param }} a fost actualizată",
+            "deleted": "Entitatea Config Site Login cu identificatorul {{ param }} a fost ștearsă"
+        }
+    }
+}

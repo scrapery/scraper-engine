@@ -1,0 +1,35 @@
+
+{
+    "scraperGatewayApp": {
+        "scraperSettingConfigSite" : {
+            "home": {
+                "title": "Config Sites",
+                "createLabel": "Kreiraj novi Config Site",
+                "createOrEditLabel": "Kreirajte ili izmenite Config Site",
+                "search": "Potražite Config Site"
+            },
+            "delete": {
+                "question": "Da li ste sigurni da želite da obrišete Config Site pod nazivom {{ id }}?"
+            },
+            "detail": {
+                "title": "Config Site"
+            },
+            "url": "Url",
+            "name": "Name",
+            "host": "Host",
+            "configName": "Config Name",
+            "totalLevel": "Total Level",
+            "userId": "User Id",
+            "fetchEngine": "Fetch Engine",
+            "mapping": "Mapping",
+            "loginAction": "Login Action"
+        }
+    },
+    "scraperSettingApp": {
+        "scraperSettingConfigSite" : {
+            "created": "Kreiran je novi Config Site pod nazivom  {{ param }}",
+            "updated": "Config Site pod nazivom {{ param }} je ažuriran",
+            "deleted": "Config Site pod nazivom {{ param }} je obrisan"
+        }
+    }
+}
